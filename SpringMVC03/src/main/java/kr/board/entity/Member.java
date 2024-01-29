@@ -1,5 +1,8 @@
 package kr.board.entity;
 
+import lombok.Data;
+
+@Data
 public class Member {
 	  private int memIdx; 
 	  private String memID;  
