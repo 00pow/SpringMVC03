@@ -26,6 +26,23 @@
     				<td><input class="form-control" type="text" maxlength="20" placeholder="아이디를 입력하세요"/></td>
     				<td style="width: 110px; "><button class="btn btn-primary btn-sm">중복확인</button></td>
     			</tr>
+    			<tr>
+    				<td style="width: 110px; vertical-align: middle;">비밀번호</td>
+    				<td><input class="form-control" type="password" maxlength="20" placeholder="비밀번호를 입력하세요"/></td>
+    			</tr>
+    			<tr>
+    				<td style="width: 110px; vertical-align: middle;">비밀번호확인</td>
+    				<td><input class="form-control" type="password" maxlength="20" placeholder="비밀번호를 확인하세요"/></td>
+    			</tr>
+    			<tr>
+    				<td style="width: 110px; vertical-align: middle;">사용자 이름</td>
+    				<td><input class="form-control" type="text" maxlength="20" placeholder="이름을 입력하세요"/></td>
+    			</tr>
+    			<tr>
+    				<td style="width: 110px; vertical-align: middle;">나이</td>
+    				<td><input class="form-control" type="text" maxlength="20" placeholder="나이를 입력하세요"/></td>
+    			</tr>
+    			
     		</table>
     	</form>
     
