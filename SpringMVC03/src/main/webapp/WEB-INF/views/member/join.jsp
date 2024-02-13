@@ -42,6 +42,22 @@
     				<td style="width: 110px; vertical-align: middle;">나이</td>
     				<td><input class="form-control" type="text" maxlength="20" placeholder="나이를 입력하세요"/></td>
     			</tr>
+    			<tr>
+    				<td style="width: 110px; vertical-align: middle;">성별</td>
+    				<td colspan="2">
+    					<div class="form-group" style="text-align: center; margin: 0 auto;">
+    						<div class="btn-group" data-toggle="buttons">
+    							<label class="btn btn-primary active">
+    							 <input type="radio" autocomplete="off" value="남자" checked/>남자
+    							</label>
+    							<label class="btn btn-primary">
+    							 <input type="radio" autocomplete="off" value="여자" checked/>여자
+    							</label>
+    							
+    						</div>
+    					</div>
+    				</td>
+    			</tr>
     			
     		</table>
     	</form>
